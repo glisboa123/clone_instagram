@@ -30,7 +30,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  border: 1px solid #ccc;
+  border: 1px solid #dbdbdb;
   height: 390px;
   width: 350px;
   padding: 50px 15px 10px 15px;
@@ -50,7 +50,7 @@
 
 .login-info [type="text"],
 .login-info [type="password"] {
-  border: 0.5px solid #ccc;
+  border: 0.5px solid #dbdbdb;
   border-radius: 3px;
   width: 268px;
   height: 36px;
@@ -87,7 +87,7 @@
 .login-info input[type="text"]:focus,
 .login-info input[type="password"]:focus,
 .login-info input[type="submit"]:focus {
-  outline: 1.5px solid #ccc;
+  outline: 1.5px solid #dbdbdb;
 }
 
 /* seção login com facebook / equeceu a senha */
@@ -116,7 +116,7 @@
 .line {
   width: 100%;
   height: 1px;
-  background-color: #ccc;
+  background-color: #dbdbdb;
 }
 
 .facebook-login {
@@ -149,7 +149,7 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  border: 1px solid #ccc;
+  border: 1px solid #dbdbdb;
   height: 60px;
   width: 350px;
   font-size: 13px;
