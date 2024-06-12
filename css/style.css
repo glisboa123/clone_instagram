@@ -202,3 +202,9 @@
   flex-wrap: wrap;
   justify-content: center;
 }
+
+@media (max-width: 800px) {
+  .cell-image {
+    display: none;
+  }
+}
