@@ -208,3 +208,38 @@
     display: none;
   }
 }
+
+@media (max-width: 460px) {
+  .cell-image {
+    display: none;
+  }
+
+  .container {
+    width: 100%;
+    gap: 0;
+    height: 100vh;
+  }
+
+  .form {
+    width: 100%;
+  }
+
+  .login {
+    width: 100%;
+    border: none;
+    height: 60vh;
+  }
+
+  .register {
+    width: 100%;
+    border: none;
+  }
+
+  .obtain-app {
+    display: none;
+  }
+
+  .footer {
+    display: none;
+  }
+}
